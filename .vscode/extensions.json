@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "njpwerner.autodocstring",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "bierner.markdown-preview-github-styles",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "KevinRose.vsc-python-indent"
+  ]
+}

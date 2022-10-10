@@ -1,0 +1,30 @@
+{
+  "[css][html][javascript][json][jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [88],
+    "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.quickSuggestions": { "comments": "off", "strings": "off", "other": "off" },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.wordWrap": "off"
+  },
+  "[python]": {
+    "editor.rulers": [88],
+    "editor.tabSize": 4,
+    "editor.wordBasedSuggestions": false
+  },
+
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.insertSpaces": true,
+  "editor.linkedEditing": true,
+  "files.eol": "\n",
+  "material-icon-theme.files.associations": { "requirements-dev.txt": "Python-misc" },
+  "material-icon-theme.folders.associations": {
+    "blueprints": "Tools",
+    "mommy": "Src"
+  },
+  "workbench.iconTheme": "material-icon-theme"
+}
